@@ -1,3 +1,5 @@
+This is a school project done in Python. We had a day to build a calcultator.
+
 # Calculator-Coding_Academy_by_Epitech
 Calculator to be executed in terminal. Done in python
 
